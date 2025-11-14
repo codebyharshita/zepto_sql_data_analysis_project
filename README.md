@@ -26,27 +26,27 @@ The project is perfect for portfolios, showcasing your ability to turn raw data 
 Table Name: zepto
 
 Column Name	Description
-sku_id	Unique product identifier (Primary Key)
-category	Product category
-name	Product name
-mrp	Maximum retail price
-discountPercent	Discount percentage offered
-availableQuantity	Stock quantity available
-discountedSellingPrice	Final selling price after discount
-weightInGms	Product weight in grams
-outOfStock	Stock status (TRUE/FALSE)
+sku_id	Unique product identifier (Primary Key),
+category	Product category,
+name	Product name,
+mrp	Maximum retail price,
+discountPercent	Discount percentage offered,
+availableQuantity	Stock quantity available,
+discountedSellingPrice	Final selling price after discount,
+weightInGms	Product weight in grams,
+outOfStock	Stock status (TRUE/FALSE),
 quantity	Quantity sold or packaged
 
 🔍 Data Exploration Highlights
 
 ✨ The script includes:
 
-Row count
-Sample data view
-Null-checking across all fields
-Stock distribution (in-stock vs out-of-stock)
-Products appearing multiple times
-List of unique categories
+Row count,
+Sample data view,
+Null-checking across all fields,
+Stock distribution (in-stock vs out-of-stock),
+Products appearing multiple times,
+List of unique categories,
 This establishes a strong foundation before analysis.
 
 🧼 Data Cleaning Performed
